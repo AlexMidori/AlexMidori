@@ -1,7 +1,7 @@
 package md.curs.cursjava.lesson5;
 
 import java.util.Scanner;
-
+test
 public class MethodsClass {
     public static void main(String[] args) {            
             
